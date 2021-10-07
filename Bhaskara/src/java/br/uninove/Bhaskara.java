@@ -57,7 +57,7 @@ public class Bhaskara {
         this.rN = rN;
     }
 
-    //----- métodos: -----
+    
     public String calculaBhaskara() {
         double aD, bD, cD;
         aD = Double.parseDouble(a);
